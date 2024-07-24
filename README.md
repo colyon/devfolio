@@ -221,3 +221,4 @@ This is however just a recommendation, the template allows you to write the comp
 ## License
 
 Licensed under the [MIT License](https://github.com/RyanFitzgerald/devfolio/blob/master/LICENSE.md).
+# devfolio
